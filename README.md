@@ -21,6 +21,7 @@ The BARK Foundation aims to empower families in poverty by enabling direct suppo
 
 - **Next.js**: Server-side rendering and static site generation.
 - **React**: User interface development.
+- **Shadcn:** UI framework
 - **Redux**: State management.
 - **Postgres**: Database.
 - **RTK Query**: Efficient data fetching.
